@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import os
-
+git config pull.ff only
 def make_commit(daysAgo):
     # créer un commit dans le répository en changeant légèrement un fichier
     os.system(f"echo '{daysAgo}' > file")
