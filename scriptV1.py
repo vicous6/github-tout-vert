@@ -13,5 +13,5 @@ def make_commits(days):
 
 
 make_commits(365)
-
+os.remove("file")
 os.system("git push --force origin main")
