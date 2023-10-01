@@ -1,6 +1,8 @@
 # github-tout-vert
 
 This script allows you to fill your GitHub history with commits from the past.
+scriptV1.py -> make 1 commit for all days of last 365 days 
+scriptV2.py -> Go to script Features
 
 ### How to Use
 1. Create a Repository: Create a repository on GitHub.
