@@ -13,5 +13,5 @@ This script allows you to fill your GitHub history with commits from the past.
 
 1. Choose the number of days in the past for which you want to create commits.
 2. Set a minimum and maximum number of commits for each day of the week (Monday to Friday).
-  2.1 Step 2 determine a random number of commits within the specified range for each weekday.
-3. Apply similar rules for the weekend (Saturday and Sunday).
+3. Step 2 determine a random number of commits within the specified range for each weekday.
+4. Apply similar rules for the weekend (Saturday and Sunday).
