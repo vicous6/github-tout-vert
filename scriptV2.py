@@ -44,7 +44,7 @@ def make_commits(days):
     inp3= input("nombre MIN de commit en semaine? ")
     inp4= input("nombre MAX de commit en semaine? ")
     inp=input("nombre MIN de commit le week end? ")
-    inp2= input("nombre MAX de commit le week end")
+    inp2= input("nombre MAX de commit le week end? ")
     for i in range(days):
         make_commit(i,inp,inp2,inp3,inp4)
 
